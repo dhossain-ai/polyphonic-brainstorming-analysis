@@ -1,0 +1,64 @@
+POLYPHONIC ANALYSIS REPORT
+========================================
+File analyzed: 01_human_human.txt
+Total utterances: 12
+
+SPEAKER TURN COUNTS
+----------------------------------------
+- StudentA: 6 turns
+- StudentB: 6 turns
+
+DETECTED VOICES
+----------------------------------------
+- Human-centered voice: 9 utterances
+- Technical voice: 7 utterances
+- Social voice: 1 utterances
+
+CONVERGENCES
+----------------------------------------
+- Human-centered voice + Technical voice: 5 times
+- Human-centered voice + Social voice: 1 times
+
+DIVERGENCES
+----------------------------------------
+- Human-centered voice vs Technical voice: 3 contrast markers
+- Human-centered voice vs Social voice: 1 contrast markers
+
+UTTERANCE-LEVEL ANALYSIS
+----------------------------------------
+1. StudentA: I think a machine can be creative if it makes something new.
+   Voices: Technical voice
+   Divergence marker: No
+2. StudentB: Maybe, but I think creativity also needs feelings or intention.
+   Voices: Human-centered voice
+   Divergence marker: Yes
+3. StudentA: But humans also copy ideas and mix them in new ways.
+   Voices: Human-centered voice
+   Divergence marker: Yes
+4. StudentB: True, but humans understand why they are making something.
+   Voices: Human-centered voice
+   Divergence marker: Yes
+5. StudentA: An AI can make paintings, music, and stories that look original.
+   Voices: Technical voice
+   Divergence marker: No
+6. StudentB: Yes, but maybe the creativity comes from the humans who trained it.
+   Voices: Technical voice, Human-centered voice
+   Divergence marker: Yes
+7. StudentA: That is possible, because the AI depends on human data.
+   Voices: Technical voice, Human-centered voice
+   Divergence marker: No
+8. StudentB: Also, the machine does not really understand the meaning of its work.
+   Voices: Technical voice, Human-centered voice
+   Divergence marker: No
+9. StudentA: But if people see the result as creative, maybe understanding is not required.
+   Voices: Human-centered voice, Social voice
+   Divergence marker: Yes
+10. StudentB: I think it depends on how we define creativity.
+   Voices: No voice detected
+   Divergence marker: No
+11. StudentA: So maybe machines can show creative behavior, but not human creativity.
+   Voices: Technical voice, Human-centered voice
+   Divergence marker: Yes
+12. StudentB: Yes, I agree. They can create useful or surprising outputs, but not with real experience.
+   Voices: Technical voice, Human-centered voice
+   Divergence marker: Yes

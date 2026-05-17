@@ -1,0 +1,77 @@
+POLYPHONIC ANALYSIS REPORT
+========================================
+File analyzed: 05_chatbot_chatbot.txt
+Total utterances: 14
+
+SPEAKER TURN COUNTS
+----------------------------------------
+- Alex: 7 turns
+- Mira: 7 turns
+
+DETECTED VOICES
+----------------------------------------
+- Technical voice: 9 utterances
+- Human-centered voice: 7 utterances
+- Social voice: 5 utterances
+- Ethical/legal voice: 3 utterances
+
+CONVERGENCES
+----------------------------------------
+- Human-centered voice + Technical voice: 3 times
+- Social voice + Technical voice: 3 times
+- Ethical/legal voice + Technical voice: 3 times
+- Human-centered voice + Social voice: 1 times
+- Ethical/legal voice + Human-centered voice: 1 times
+- Ethical/legal voice + Social voice: 1 times
+
+DIVERGENCES
+----------------------------------------
+- Human-centered voice vs Technical voice: 2 contrast markers
+- Ethical/legal voice vs Technical voice: 2 contrast markers
+- Ethical/legal voice vs Social voice: 1 contrast markers
+- Social voice vs Technical voice: 1 contrast markers
+
+UTTERANCE-LEVEL ANALYSIS
+----------------------------------------
+1. Alex: I think a machine can be creative because it can generate new ideas.
+   Voices: Technical voice
+   Divergence marker: No
+2. Mira: I disagree a little. It can generate outputs, but creativity needs intention.
+   Voices: Technical voice, Human-centered voice
+   Divergence marker: Yes
+3. Alex: But many creative works are also based on patterns and previous examples.
+   Voices: Technical voice
+   Divergence marker: Yes
+4. Mira: That is true, but humans understand the meaning behind their choices.
+   Voices: Human-centered voice
+   Divergence marker: Yes
+5. Alex: A machine can still make something that surprises people.
+   Voices: Technical voice, Social voice
+   Divergence marker: No
+6. Mira: Surprise is important, but it is not the same as understanding.
+   Voices: Human-centered voice
+   Divergence marker: Yes
+7. Alex: Maybe creativity should be judged by the result, not by the inner experience.
+   Voices: Human-centered voice, Social voice
+   Divergence marker: No
+8. Mira: If we judge only the result, then AI art can count as creative.
+   Voices: Technical voice, Social voice
+   Divergence marker: No
+9. Alex: Exactly. If people find it original and valuable, it has creative value.
+   Voices: Social voice
+   Divergence marker: No
+10. Mira: But we should also ask who deserves credit: the machine, the user, or the developers.
+   Voices: Technical voice, Ethical/legal voice
+   Divergence marker: Yes
+11. Alex: That is an ethical problem, especially when training data comes from human artists.
+   Voices: Technical voice, Human-centered voice, Ethical/legal voice
+   Divergence marker: No
+12. Mira: So machines can produce creative-looking work, but the social and ethical questions remain.
+   Voices: Technical voice, Social voice, Ethical/legal voice
+   Divergence marker: Yes
+13. Alex: I agree. Machine creativity is possible, but it is different from human creativity.
+   Voices: Technical voice, Human-centered voice
+   Divergence marker: Yes
+14. Mira: Yes, it may be a new type of creativity rather than the same as human creativity.
+   Voices: Human-centered voice
+   Divergence marker: No

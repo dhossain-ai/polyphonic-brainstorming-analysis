@@ -1,0 +1,80 @@
+POLYPHONIC ANALYSIS REPORT
+========================================
+File analyzed: 06_chatbot_chatbot.txt
+Total utterances: 16
+
+SPEAKER TURN COUNTS
+----------------------------------------
+- Theo: 8 turns
+- Sara: 8 turns
+
+DETECTED VOICES
+----------------------------------------
+- Technical voice: 9 utterances
+- Human-centered voice: 6 utterances
+- Ethical/legal voice: 1 utterances
+- Social voice: 1 utterances
+
+CONVERGENCES
+----------------------------------------
+- Human-centered voice + Technical voice: 3 times
+- Ethical/legal voice + Human-centered voice: 1 times
+- Ethical/legal voice + Technical voice: 1 times
+- Social voice + Technical voice: 1 times
+
+DIVERGENCES
+----------------------------------------
+- Ethical/legal voice vs Human-centered voice: 1 contrast markers
+- Ethical/legal voice vs Technical voice: 1 contrast markers
+- Human-centered voice vs Technical voice: 1 contrast markers
+
+UTTERANCE-LEVEL ANALYSIS
+----------------------------------------
+1. Theo: I believe machines can be creative because they can produce original combinations.
+   Voices: Technical voice
+   Divergence marker: No
+2. Sara: I am not fully convinced, because originality alone may not be enough.
+   Voices: No voice detected
+   Divergence marker: Yes
+3. Theo: What else is needed?
+   Voices: No voice detected
+   Divergence marker: No
+4. Sara: Maybe creativity needs purpose, emotion, and some awareness of meaning.
+   Voices: Human-centered voice
+   Divergence marker: No
+5. Theo: But a lot of human creativity also happens without clear planning.
+   Voices: Human-centered voice
+   Divergence marker: Yes
+6. Sara: Yes, but humans still have experiences that shape their ideas.
+   Voices: Human-centered voice
+   Divergence marker: Yes
+7. Theo: AI has training data instead of life experience.
+   Voices: Technical voice, Human-centered voice, Ethical/legal voice
+   Divergence marker: Yes
+8. Sara: That is the problem. Data is not the same as living in the world.
+   Voices: Technical voice
+   Divergence marker: Yes
+9. Theo: Still, AI can help people discover ideas they would not find alone.
+   Voices: Technical voice, Social voice
+   Divergence marker: No
+10. Sara: I agree with that. It can be a strong brainstorming partner.
+   Voices: Technical voice
+   Divergence marker: No
+11. Theo: So maybe the machine is creative as a tool.
+   Voices: Technical voice
+   Divergence marker: No
+12. Sara: Yes, but I would not call it creative in the same way as a person.
+   Voices: No voice detected
+   Divergence marker: Yes
+13. Theo: The difference may be between output creativity and conscious creativity.
+   Voices: Technical voice, Human-centered voice
+   Divergence marker: No
+14. Sara: That distinction is useful. AI can have output creativity, while humans have experienced creativity.
+   Voices: Technical voice, Human-centered voice
+   Divergence marker: No
+15. Theo: Then we can say machines can be creative in a limited and functional sense.
+   Voices: Technical voice
+   Divergence marker: No
+16. Sara: I agree. The answer depends on the definition of creativity.
+   Voices: No voice detected
+   Divergence marker: No

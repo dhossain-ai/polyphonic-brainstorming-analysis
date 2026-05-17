@@ -1,0 +1,61 @@
+POLYPHONIC ANALYSIS REPORT
+========================================
+File analyzed: 02_human_human.txt
+Total utterances: 12
+
+SPEAKER TURN COUNTS
+----------------------------------------
+- StudentA: 6 turns
+- StudentB: 6 turns
+
+DETECTED VOICES
+----------------------------------------
+- Technical voice: 8 utterances
+- Human-centered voice: 5 utterances
+
+CONVERGENCES
+----------------------------------------
+- Human-centered voice + Technical voice: 3 times
+
+DIVERGENCES
+----------------------------------------
+- No divergences detected
+
+UTTERANCE-LEVEL ANALYSIS
+----------------------------------------
+1. StudentA: I saw AI-generated art online, and some of it looked very creative.
+   Voices: Technical voice
+   Divergence marker: No
+2. StudentB: I agree it can look creative, but I am not sure the machine itself is creative.
+   Voices: Technical voice
+   Divergence marker: Yes
+3. StudentA: Why not? If the output is new and interesting, maybe that is enough.
+   Voices: Technical voice
+   Divergence marker: No
+4. StudentB: Because the machine follows patterns from data. It does not have personal ideas.
+   Voices: Technical voice, Human-centered voice
+   Divergence marker: No
+5. StudentA: Humans also learn from examples before making something new.
+   Voices: Human-centered voice
+   Divergence marker: No
+6. StudentB: Yes, but humans have emotions, memories, and goals.
+   Voices: Human-centered voice
+   Divergence marker: Yes
+7. StudentA: Maybe creativity has different levels. AI can have technical creativity.
+   Voices: Technical voice
+   Divergence marker: No
+8. StudentB: That makes sense. It can combine things in unexpected ways.
+   Voices: No voice detected
+   Divergence marker: No
+9. StudentA: Also, AI can help humans brainstorm faster.
+   Voices: Technical voice, Human-centered voice
+   Divergence marker: No
+10. StudentB: Yes, but it may repeat common ideas and not take real risks.
+   Voices: No voice detected
+   Divergence marker: Yes
+11. StudentA: So AI may be useful as a creative tool, not a full creative person.
+   Voices: Technical voice
+   Divergence marker: No
+12. StudentB: I agree. The creativity may be shared between the human user and the machine.
+   Voices: Technical voice, Human-centered voice
+   Divergence marker: No
