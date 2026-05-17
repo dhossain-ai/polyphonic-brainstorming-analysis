@@ -1,0 +1,17 @@
+Session: 04
+Type: Human-chatbot
+Topic: Can a machine be creative?
+Participants: StudentA, Chatbot
+
+StudentA:
+Chatbot:
+StudentA:
+Chatbot:
+StudentA:
+Chatbot:
+StudentA:
+Chatbot:
+StudentA:
+Chatbot:
+StudentA:
+Chatbot:

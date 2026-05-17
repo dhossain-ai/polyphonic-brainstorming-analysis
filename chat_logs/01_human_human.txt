@@ -1,0 +1,17 @@
+Session: 01
+Type: Human-human
+Topic: Can a machine be creative?
+Participants: StudentA, StudentB
+
+StudentA:
+StudentB:
+StudentA:
+StudentB:
+StudentA:
+StudentB:
+StudentA:
+StudentB:
+StudentA:
+StudentB:
+StudentA:
+StudentB:
