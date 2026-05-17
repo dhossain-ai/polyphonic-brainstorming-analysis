@@ -3,15 +3,15 @@ Type: Human-human
 Topic: Can a machine be creative?
 Participants: StudentA, StudentB
 
-StudentA:
-StudentB:
-StudentA:
-StudentB:
-StudentA:
-StudentB:
-StudentA:
-StudentB:
-StudentA:
-StudentB:
-StudentA:
-StudentB:
+StudentA: I think a machine can be creative if it makes something new.
+StudentB: Maybe, but I think creativity also needs feelings or intention.
+StudentA: But humans also copy ideas and mix them in new ways.
+StudentB: True, but humans understand why they are making something.
+StudentA: An AI can make paintings, music, and stories that look original.
+StudentB: Yes, but maybe the creativity comes from the humans who trained it.
+StudentA: That is possible, because the AI depends on human data.
+StudentB: Also, the machine does not really understand the meaning of its work.
+StudentA: But if people see the result as creative, maybe understanding is not required.
+StudentB: I think it depends on how we define creativity.
+StudentA: So maybe machines can show creative behavior, but not human creativity.
+StudentB: Yes, I agree. They can create useful or surprising outputs, but not with real experience.
